@@ -25,7 +25,7 @@
 ## Clonar o repositório
 
 ```
-git clone https://github.com/SEU-USUARIO/controle-gastos.git
+git clone https://github.com/JoaoCamo/controle-gastos.git
 cd controle-gastos
 ```
 
