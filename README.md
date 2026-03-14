@@ -20,7 +20,7 @@
 
 ---
 
-# ⚙️ Como executar o projeto
+# Como executar o projeto
 
 ## Clonar o repositório
 
