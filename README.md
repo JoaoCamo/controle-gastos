@@ -36,7 +36,7 @@ cd controle-gastos
 Entre na pasta do backend:
 
 ```
-cd backend
+cd backend-web-api
 ```
 
 Restaure as dependências:
